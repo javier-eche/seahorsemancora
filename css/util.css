@@ -3106,6 +3106,7 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 	font-size: 15px;
 	color: #888888;
 	line-height: 1.8;
+	padding-left: 20px;
 }
 
 .s-text14 {
@@ -3113,6 +3114,7 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 	font-size: 13px;
 	color: white;
 	text-transform: uppercase;
+	padding-left: 20px;
 }
 
 .s-text15 {
