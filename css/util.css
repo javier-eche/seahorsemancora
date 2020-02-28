@@ -2346,7 +2346,7 @@
 /*[ Background ]
 -----------------------------------------------------------
 */
-.bgwhite {background-color: white;}
+.bgwhite {background-color: white;padding: 20px;}
 .bgblack {background-color: black;}
 
 
